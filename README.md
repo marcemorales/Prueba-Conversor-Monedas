@@ -28,7 +28,7 @@ Tip: En la guía de APIs hay un capítulo asociado a “Plugins de JavaScript (C
 <img src="assets/img/Euro.png" alt="euro">
 
 
-Se puede visualizar en github pages así:
+Se puede visualizar en github pages así: https://marcemorales.github.io/Prueba-Conversor-Monedas/
 
 ----
 Marcela Morales Peralta
